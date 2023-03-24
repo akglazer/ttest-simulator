@@ -1,0 +1,11 @@
+name: ttest
+title:
+username:
+account: amanda-glazer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8601080
+bundleId: 7000279
+url: https://amanda-glazer.shinyapps.io/ttest/
+when: 1679614342.14501
+lastSyncTime: 1679614342.14504
